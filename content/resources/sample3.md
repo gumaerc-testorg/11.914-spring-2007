@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains a sample feedback memo on a student briefing.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-914-planning-communication-spring-2007/a6a4c3fea93b78b65e6bb66efdb79b87_sample3.pdf
+file: /media/courses/11-914-planning-communication-spring-2007/a6a4c3fea93b78b65e6bb66efdb79b87_sample3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: sample3.pdf
 uid: a6a4c3fe-a93b-78b6-5e6b-b66efdb79b87

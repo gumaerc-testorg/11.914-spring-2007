@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains an example of a completed team project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-914-planning-communication-spring-2007/8b4d73cea6c5c1f123b2381db1c42bf7_group3.pdf
+file: /media/courses/11-914-planning-communication-spring-2007/8b4d73cea6c5c1f123b2381db1c42bf7_group3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: group3.pdf
 uid: 8b4d73ce-a6c5-c1f1-23b2-381db1c42bf7
