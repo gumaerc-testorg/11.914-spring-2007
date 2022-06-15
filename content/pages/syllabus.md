@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This syllabus section provides a course overview and information on
+  the format of the course, group work, teaching team roles, requirements, evaluation,
+  feedback, and course materials.  '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
