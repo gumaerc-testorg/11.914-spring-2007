@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides an overview of the oral briefing assignment and
+  information on context, history, current status, key players, role, task, scope,
+  preparing, and guidance and data.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b7490e43-4740-d1d9-e5bd-cf20dc135b44
 ---
