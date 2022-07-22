@@ -5,6 +5,7 @@ file: /courses/11-914-planning-communication-spring-2007/4cebe1bea33537de3637856
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sample2.pdf
 uid: 4cebe1be-a335-37de-3637-8566801ef480
 ---
 This resource contains a sample feedback memo on a student briefing.
-

@@ -5,6 +5,7 @@ file: /courses/11-914-planning-communication-spring-2007/0207a8b94a5f310deb423a7
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: group11.pdf
 uid: 0207a8b9-4a5f-310d-eb42-3a7a434e5c48
 ---
 This resource contains an example of a completed team project.
-
