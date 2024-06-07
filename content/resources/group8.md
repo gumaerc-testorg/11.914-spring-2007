@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an example of a completed team project.
 file: /courses/11-914-planning-communication-spring-2007/e29f446b040c71b3d55bf17730ba0694_group8.pdf
+file_size: 77804
 file_type: application/pdf
 learning_resource_types:
 - Projects
