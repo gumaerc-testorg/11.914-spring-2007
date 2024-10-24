@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a guide on how to prepare and deliver an effective
   briefing.
-file: /courses/11-914-planning-communication-spring-2007/e9ae08e6f608ed0fe30af41a2dcd8fb1_xavbriefing.pdf
+file: /ol-ocw-studio-app/courses/11-914-planning-communication-spring-2007/e9ae08e6f608ed0fe30af41a2dcd8fb1_xavbriefing.pdf
 file_size: 560745
 file_type: application/pdf
 learning_resource_types:
