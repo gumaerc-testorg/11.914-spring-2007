@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on a question and answer session with Susan
   Silberberg about the waterfront.
-file: /ol-ocw-studio-app/courses/11-914-planning-communication-spring-2007/182fe17fa42e0b863e25d25190016983_qstion_silbrberg.pdf
+file: /courses/11-914-planning-communication-spring-2007/182fe17fa42e0b863e25d25190016983_qstion_silbrberg.pdf
 file_size: 117146
 file_type: application/pdf
 learning_resource_types:
