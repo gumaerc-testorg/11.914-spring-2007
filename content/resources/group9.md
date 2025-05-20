@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an example of a completed team project.
-file: /ol-ocw-studio-app/courses/11-914-planning-communication-spring-2007/fed7d899b375bea194332c85397763c2_group9.pdf
+file: /courses/11-914-planning-communication-spring-2007/fed7d899b375bea194332c85397763c2_group9.pdf
 file_size: 1279498
 file_type: application/pdf
 learning_resource_types:
