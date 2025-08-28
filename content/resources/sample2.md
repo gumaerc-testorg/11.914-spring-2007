@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a sample feedback memo on a student briefing.
-file: /courses/11-914-planning-communication-spring-2007/4cebe1bea33537de36378566801ef480_sample2.pdf
+file: /ol-ocw-studio-app/courses/11-914-planning-communication-spring-2007/4cebe1bea33537de36378566801ef480_sample2.pdf
 file_size: 18475
 file_type: application/pdf
 learning_resource_types:
